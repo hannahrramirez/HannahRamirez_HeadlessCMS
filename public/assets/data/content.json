@@ -1,0 +1,62 @@
+{
+    "sitename" : "Dashboard",
+    "contactEmail": "aramirez20@myseneca.ca",
+
+    "infoBtn": [
+
+        {
+            "infoBtnTitle": "Unresolved",
+            "infoBtnValue": "60"
+        },
+
+        {
+            "infoBtnTitle": "Overdue",
+            "infoBtnValue": "16"
+        },
+
+        {
+            "infoBtnTitle": "Open",
+            "infoBtnValue": "43"
+        },
+
+        {
+            "infoBtnTitle": "On hold",
+            "infoBtnValue": "64"
+        }
+
+    ],
+    "leftInfo": [
+
+        {
+            "infoBtnTitle": "Resolved",
+            "infoBtnValue": "449"
+        },
+
+        {
+            "infoBtnTitle": "Received",
+            "infoBtnValue": "426"
+        },
+
+        {
+            "infoBtnTitle": "Average First Response Time",
+            "infoBtnValue": "33m"
+        },
+
+        {
+            "infoBtnTitle": "Average response time",
+            "infoBtnValue": "3h 8m"
+        },
+        {
+            "infoBtnTitle": "Received",
+            "infoBtnValue": "33m"
+        },
+
+        {
+            "infoBtnTitle": "Resolved",
+            "infoBtnValue": "3h 8m"
+        }
+
+    ]
+
+
+}
