@@ -1,0 +1,61 @@
+/* MULISH FONT */
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap');
+
+p a h1 h2 h3 {
+  font-family: 'Mulish', sans-serif;
+}
+
+h1 {
+  margin-bottom: 20%;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.btn-card:hover {
+  box-sizing: border-box;
+  color: #3751FF;
+}
+
+.avatar {
+  width: 44px;
+  height: 44px;
+  border-radius: 100%;
+}
+
+ul.navbar-nav.ms-auto.mb-2.mb-lg-0 {
+  display: flex;
+  flex-direction: row;
+}
+
+.overview {
+  background: #9FA2B4;
+}
+
+.trend-row {
+  display: flex;
+  padding: 10 10 10 10;
+  padding: 2%;
+
+}
+
+.graph {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+
+
+    
+/* For small screens, set height to 'auto' for the grid */
+@media screen and (max-width: 767px) {
+  .row.content {height: auto;} 
+} 
